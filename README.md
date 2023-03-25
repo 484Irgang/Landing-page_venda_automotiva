@@ -5,7 +5,7 @@
 <p align="center">Projeto de landing-page da série de projetos Learning To Code, esse projeto foi feito através de exercicios de prática da plataforma Danki Code, desenvolvendo
 do zero uma pagina estática e clone da plataforma, para treinar CSS e introduzir conceitos e funcionalidades com JQuery, em que foi inicialmente usado poucos trechos de código,
 este projeto já foi finalizado em maio de 2022, atualmente foi feito pequenas alterções para poder subir no repositório mas sem anular o nivel de simplicidade e erros cometidos 
-no projeto feito na epoca em que eu era mais iniciante.<br/><a href="https://484irgang.github.io/Landing-page_Danki-code"><img src="./img/Button_link.png"/></a></p>
+no projeto feito na epoca em que eu era mais iniciante.<br/><a href="https://484irgang.github.io/Landing-page_venda_automotiva/"><img src="./img/Button_link.png"/></a></p>
 
 <h1> :camera: Images</h1>
 <p align="center">
