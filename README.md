@@ -2,10 +2,7 @@
 <p align="center"><img src="./img/Banner.png"/></p>
 
 <h1> :page_with_curl: Description</h1>
-<p align="center">Projeto de landing-page da série de projetos Learning To Code, esse projeto foi feito através de exercicios de prática da plataforma Danki Code, desenvolvendo
-do zero uma pagina estática e clone da plataforma, para treinar CSS e introduzir conceitos e funcionalidades com JQuery, em que foi inicialmente usado poucos trechos de código,
-este projeto já foi finalizado em maio de 2022, atualmente foi feito pequenas alterções para poder subir no repositório mas sem anular o nivel de simplicidade e erros cometidos 
-no projeto feito na epoca em que eu era mais iniciante.<br/><a href="https://484irgang.github.io/Landing-page_venda_automotiva/"><img src="./img/Button_link.png"/></a></p>
+<p align="center">Projeto de landing-page clone de uma revenda de carros antigos, design oferecido pela plataforma Danki Code, o projeto mais completo feito através dos ensinamentos da Danki Code pelo curso Front-end, meio responsivo e com umas interções a mais, contando também com mais páginas de acesso ao produto, feito na metade do ano de 2022.<br/><a href="https://484irgang.github.io/Landing-page_venda_automotiva/"><img src="./img/Button_link.png"/></a></p>
 
 <h1> :camera: Images</h1>
 <p align="center">
